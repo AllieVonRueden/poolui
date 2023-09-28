@@ -1,6 +1,6 @@
-logs/*
+logs/ 
 */.log
-!.gitkeep
+*.gitkeep
 node_modules/
 vendor/
 tmp
@@ -8,4 +8,4 @@ tmp
 .idea
 app/vendor/
 build/
-app/globals.js
+app/globals.js 
